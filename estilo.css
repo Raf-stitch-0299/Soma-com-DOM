@@ -1,0 +1,68 @@
+@charset 'utf-8';
+
+body {
+    background-image: url(https://www.pngmart.com/files/5/Teacher-Transparent-Background.png);
+    background-repeat: no-repeat;
+    background-size: 900px;
+}
+
+.dom p{
+    position: relative;
+    left: 130px;
+    top: 40px;
+    font-size: 22px;
+   max-width: 100px;
+}
+
+.dom{
+
+    background-image: url(chat.png);
+    background-repeat: no-repeat;
+    background-size: 360px;
+    height: 250px;
+   max-width: 350px;
+    left: 850px;
+    bottom: 30px;
+    position: relative;
+
+}
+
+
+.escrita{
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #ffffff;
+}
+
+#resp{
+    position: absolute;
+    left: 170px;
+    top: 300px;
+    font-size: 25px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: rgb(255, 255, 255);
+
+
+}
+
+
+footer{
+
+    position: fixed;
+    width: 100%;
+    bottom: 140px;
+   left: 300px;
+    padding: 5px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  color: #ffffff;
+  font-weight: 200;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  }
